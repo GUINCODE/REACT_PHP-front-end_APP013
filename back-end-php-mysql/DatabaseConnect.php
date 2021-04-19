@@ -4,7 +4,7 @@
    define("DB_HOST", "localhost");
    define("DB_USER", "root");
    define("DB_PASS", "");
-   define("DB_NAME", "test_bdd");
+   define("DB_NAME", "backend_react");
 
          //dsn de connection
          $dsn="mysql:dbname=".DB_NAME."; host=".DB_HOST;
