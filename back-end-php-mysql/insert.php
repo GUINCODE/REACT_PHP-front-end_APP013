@@ -24,14 +24,6 @@ if($db->query($sql)){
       else echo "erreur d'insertion";
 }
 
-// test 
-// $prenom="zoumanigui";
-// $nom="antoine";
-// $mail="barrybagata97@gmail.com";
-// $sql="INSERT INTO `utilisateurs` (`prenom`, `nom`, `email`) VALUES ('$prenom', '$nom', '$mail') ";
-// if($db->query($sql)){
-//        echo "insertion effectuée";
-//       } 
-//       else echo "erreur d'insertion";
+
 
 ?>
